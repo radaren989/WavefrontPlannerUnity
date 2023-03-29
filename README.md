@@ -19,5 +19,6 @@ Credits
 This project was inspired by the following resources:
 
 "Fundementals of Robotics" course by Assoc. Prof. Dr. Ahmet Özkurt by DEU Izmir
+
 License
 This project is licensed under the MIT License. See the LICENSE file for more information.
