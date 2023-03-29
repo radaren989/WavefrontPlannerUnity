@@ -13,7 +13,9 @@ Visual representation of the environment and path
 Start and goal position selection
 Smooth path interpolation
 Usage
-To use this project, simply download or clone the repository and open it in Unity. The main scene is located in the Assets/Scenes folder. You can adjust the environment settings and obstacle placement in the scene editor.
+To use this project, simply download or clone the repository and open it in Unity. The main scene is located in the Assets/Scenes folder. You can adjust the environment settings and obstacle placement in the scene editor. 
+You can download it from the following link.
+https://drive.google.com/drive/folders/1h41p1Hjs2AuFNZlAv08jv3PvQVvT6Gy_?usp=sharing
 
 Credits
 This project was inspired by the following resources:
